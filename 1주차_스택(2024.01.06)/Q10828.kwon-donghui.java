@@ -1,9 +1,8 @@
-package sadang;
-
+import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Stack01 {
+public class Stack1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int number = Integer.parseInt(sc.nextLine());
